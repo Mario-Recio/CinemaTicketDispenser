@@ -1,7 +1,7 @@
 # 📖 CinemaTicketDispenser
 
-[![license](https://img.shields.io/github/license/CinemaTicketDispenser.svg)](https://github.com/Mario-Recio/CinemaTicketDispenser/blob/master/LICENSE)
-[![build](https://github.com/Mario-Recio/CinemaTicketDispenser/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Mario-Recio/CinemaTicketDispenser/actions/workflows/build.yml)
+[![license](https://img.shields.io/github/license/devfiveurjc/agendaly.svg)](https://github.com/Mario-Recio/CinemaTicketDispenser/blob/master/LICENSE)
+[![build](https://github.com/devfiveurjc/agendaly/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Mario-Recio/CinemaTicketDispenser/actions/workflows/build.yml)
 
 Ticket sales and seats distribution application.
 
